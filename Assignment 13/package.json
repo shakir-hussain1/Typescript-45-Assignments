@@ -1,0 +1,15 @@
+{
+  "name": "assignment-13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "13.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.8"
+  }
+}
