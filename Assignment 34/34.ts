@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 /*34. Pizzas: Think of at least three kinds of your favorite pizza. Store these
 pizza names in a array, and then use a for loop to print the name of each pizza.
 • Modify your for loop to print a sentence using the name of the pizza

@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 // Names: Store the names of a few of your friends in a array called names. Print each person’s name by accessing each element in the list, one at a time.
 
 let frndNames:string[]=["Zeeshan","Akif","Naeem","Najeeb","Zulfiqar"]; //array defined
