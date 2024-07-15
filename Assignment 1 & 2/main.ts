@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-console.log("\n" + "WELCOME TO TYPESCRIPT 45 ASSIGNMENTS" + "\n");
+console.log("\n" + "WELCOME TO ALL" + "\n");
 
 // Q1. Install [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/download)  and [VS Code](https://code.visualstudio.com/) on your computer.
 
@@ -9,4 +9,6 @@ console.log("\n" + "WELCOME TO TYPESCRIPT 45 ASSIGNMENTS" + "\n");
 
 const personName : string = "Shakir Hussain";
 
-console.log("Hello " + personName + ", would you like to learn some Typescript today?");
+console.log("Hello " + personName + ", would you like to learn some Typescript today?\n");
+
+console.log("THE END")
